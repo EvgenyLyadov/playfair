@@ -3,7 +3,6 @@ import random
 import math
 import copy
 
-
 # Функция формирования ключа - матрицы
 def matrix(key):
     matrix = []
